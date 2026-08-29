@@ -23,7 +23,7 @@ The project was developed as part of my **Computer Science and Technology bachel
 ### Mobile Application
 
 * **React Native** - Cross-platform mobile application development
-* **JavaScript / TypeScript** - Application logic and development
+* **JavaScript** - Application logic and development
 * **VS Code** - Development environment
 * **Expo** - React native development and application tooling
 * **Android Studio** - Android development, testing, and debugging
